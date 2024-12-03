@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-02)
+## Unreleased (2024-12-03)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`299517a`](https://github.com/stdlib-js/stdlib/commit/299517a7a1e3494b93b2368c4f135a5826f88090) - **docs:** update examples in `math/base/special/lcmf` [(#3319)](https://github.com/stdlib-js/stdlib/pull/3319) _(by Gunj Joshi, Athan Reines)_
 -   [`c0d083d`](https://github.com/stdlib-js/stdlib/commit/c0d083d4329c439d9c002479740518584e5f5977) - **feat:** add `math/base/special/lcmf` _(by Aayush Khanna, stdlib-bot)_
 
 </details>
@@ -34,9 +35,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
+-   Gunj Joshi
 
 </section>
 
