@@ -54,7 +54,7 @@ The [least common multiple][lcm] (lcm) of two non-zero integers `a` and `b` is t
 ## Usage
 
 ```javascript
-import lcmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lcmf@esm/index.mjs';
+import lcmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lcmf@v0.1.0-esm/index.mjs';
 ```
 
 #### lcmf( a, b )
@@ -123,7 +123,7 @@ v = lcmf( 48, NaN );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import lcmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lcmf@esm/index.mjs';
+import lcmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-lcmf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
